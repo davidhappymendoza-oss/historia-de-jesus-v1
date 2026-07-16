@@ -1,0 +1,108 @@
+[
+  {
+    "id": "mt-02-profecias-01",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 2,
+      "verses": "1-6"
+    },
+    "characters": [
+      "los magos",
+      "Herodes",
+      "los principales sacerdotes"
+    ],
+    "location": "Jerusalén y Belén",
+    "category": "profecias",
+    "subcategory": "lugar_de_nacimiento",
+    "level": 1,
+    "difficulty": "all",
+    "illustration": "profecias/nacimiento-belen.png",
+    "keywords": [
+      "profecía",
+      "Belén",
+      "Miqueas"
+    ],
+    "content": {
+      "es": {
+        "prompt": "Cuando los magos preguntaron dónde nacería el Mesías, ¿qué ciudad señalaron los sacerdotes citando a los profetas?",
+        "options": [
+          "Belén",
+          "Jerusalén",
+          "Nazaret"
+        ],
+        "correctIndex": 0,
+        "explanation": "Citando al profeta Miqueas, los sacerdotes señalaron que el Mesías nacería en Belén de Judea.",
+        "historicalContext": "El profeta Miqueas había escrito siglos antes que de Belén saldría un gobernante para Israel.",
+        "culturalContext": "Herodes, inquieto por la noticia, buscaba esa información para intentar eliminar al futuro rey.",
+        "mainTeaching": "El cumplimiento muestra la fidelidad de Dios a sus promesas hechas mucho tiempo antes.",
+        "verseText": "Y tú, Belén, tierra de Judá, de ti saldrá un guiador que apacentará a mi pueblo Israel."
+      },
+      "en": {
+        "prompt": "When the magi asked where the Messiah would be born, which city did the priests point to, quoting the prophets?",
+        "options": [
+          "Bethlehem",
+          "Jerusalem",
+          "Nazareth"
+        ],
+        "correctIndex": 0,
+        "explanation": "Quoting the prophet Micah, the priests pointed out that the Messiah would be born in Bethlehem of Judea.",
+        "historicalContext": "The prophet Micah had written centuries earlier that a ruler for Israel would come out of Bethlehem.",
+        "culturalContext": "Herod, unsettled by the news, sought this information in an attempt to eliminate the future king.",
+        "mainTeaching": "The fulfillment shows God's faithfulness to promises made long before.",
+        "verseText": "But you, Bethlehem, out of you will come a ruler who will shepherd my people Israel."
+      }
+    }
+  },
+  {
+    "id": "mt-21-profecias-02",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 21,
+      "verses": "1-5"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "camino a Jerusalén",
+    "category": "profecias",
+    "subcategory": "rey_humilde",
+    "level": 2,
+    "difficulty": "all",
+    "illustration": "profecias/rey-en-burro.png",
+    "keywords": [
+      "profecía",
+      "Zacarías",
+      "burro"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué profeta había anunciado siglos antes que el rey de Jerusalén llegaría montado en un burro?",
+        "options": [
+          "Zacarías",
+          "Isaías",
+          "Jeremías"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mateo señala que la entrada de Jesús en burro cumple lo anunciado por el profeta Zacarías.",
+        "historicalContext": "Zacarías escribió esa profecía siglos antes, en un contexto de restauración post-exilio de Israel.",
+        "culturalContext": "Un rey en burro, en vez de caballo de guerra, comunicaba humildad y paz, no conquista militar.",
+        "mainTeaching": "El cumplimiento profético refuerza que Jesús es reconocido como el rey mesiánico anunciado.",
+        "verseText": "Mira, tu rey viene a ti, humilde y montado en un asno, en un pollino, hijo de asna."
+      },
+      "en": {
+        "prompt": "Which prophet had announced centuries earlier that the king of Jerusalem would arrive riding a donkey?",
+        "options": [
+          "Zechariah",
+          "Isaiah",
+          "Jeremiah"
+        ],
+        "correctIndex": 0,
+        "explanation": "Matthew points out that Jesus's entry on a donkey fulfills what the prophet Zechariah had announced.",
+        "historicalContext": "Zechariah wrote that prophecy centuries earlier, amid Israel's post-exile restoration.",
+        "culturalContext": "A king on a donkey, rather than a warhorse, communicated humility and peace, not military conquest.",
+        "mainTeaching": "The prophetic fulfillment reinforces that Jesus is recognized as the announced messianic king.",
+        "verseText": "See, your king comes to you, gentle and riding on a donkey, on a colt, the foal of a donkey."
+      }
+    }
+  }
+]

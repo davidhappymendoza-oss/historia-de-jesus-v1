@@ -1,0 +1,34 @@
+{
+  "app": {
+    "title": "Story of Jesus",
+    "credit": "Developed by OTSV"
+  },
+  "menu": {
+    "play": "Play",
+    "configuration": "Configuration",
+    "score": "Score"
+  },
+  "player": {
+    "newPlayer": "New player",
+    "namePrompt": "What's your name?",
+    "continue": "Continue",
+    "restart": "Restart"
+  },
+  "settings": {
+    "title": "Configuration",
+    "language": "Language",
+    "difficulty": "Difficulty",
+    "beginner": "Beginner",
+    "intermediate": "Intermediate",
+    "advanced": "Advanced"
+  },
+  "game": {
+    "level": "Level",
+    "score": "Score",
+    "timeUp": "Time's up!"
+  },
+  "common": {
+    "back": "Back",
+    "loading": "Loading..."
+  }
+}

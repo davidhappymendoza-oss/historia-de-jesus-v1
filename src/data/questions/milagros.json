@@ -1,0 +1,333 @@
+[
+  {
+    "id": "jn-02-milagros-01",
+    "reference": {
+      "gospel": "Juan",
+      "chapter": 2,
+      "verses": "1-11"
+    },
+    "characters": [
+      "Jesús",
+      "María",
+      "los discípulos"
+    ],
+    "location": "Caná de Galilea",
+    "category": "milagros",
+    "subcategory": "primer_milagro",
+    "level": 1,
+    "difficulty": "all",
+    "illustration": "milagros/bodas-cana.png",
+    "keywords": [
+      "agua",
+      "vino",
+      "boda",
+      "Caná"
+    ],
+    "content": {
+      "es": {
+        "prompt": "En las bodas de Caná, ¿en qué convirtió Jesús el agua?",
+        "options": [
+          "En vino",
+          "En aceite",
+          "En pan"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús convirtió el agua en vino de excelente calidad, sorprendiendo al maestresala de la fiesta.",
+        "historicalContext": "Las bodas judías duraban varios días; quedarse sin vino era una vergüenza social grave para la familia anfitriona.",
+        "culturalContext": "María intercede ante una necesidad práctica, mostrando su papel de mediadora en el relato de Juan.",
+        "mainTeaching": "Es el primer milagro ('señal') de Jesús en Juan: manifiesta su gloria y fortalece la fe de sus discípulos.",
+        "verseText": "Este fue el primero de sus milagros, con el que reveló su gloria, y sus discípulos creyeron en él."
+      },
+      "en": {
+        "prompt": "At the wedding in Cana, what did Jesus turn the water into?",
+        "options": [
+          "Wine",
+          "Oil",
+          "Bread"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus turned the water into excellent wine, surprising the master of the feast.",
+        "historicalContext": "Jewish weddings lasted several days; running out of wine was a serious embarrassment for the host family.",
+        "culturalContext": "Mary intercedes over a practical need, showing her role as a mediator in John's account.",
+        "mainTeaching": "This is Jesus's first miraculous sign in John: it reveals his glory and strengthens his disciples' faith.",
+        "verseText": "This was the first of his miraculous signs, and it revealed his glory, so his disciples believed in him."
+      }
+    }
+  },
+  {
+    "id": "mc-04-milagros-02",
+    "reference": {
+      "gospel": "Marcos",
+      "chapter": 4,
+      "verses": "35-41"
+    },
+    "characters": [
+      "Jesús",
+      "los discípulos"
+    ],
+    "location": "Mar de Galilea",
+    "category": "milagros",
+    "subcategory": "poder_sobre_naturaleza",
+    "level": 2,
+    "difficulty": "all",
+    "illustration": "milagros/tempestad-calmada.png",
+    "keywords": [
+      "tempestad",
+      "barca",
+      "fe",
+      "miedo"
+    ],
+    "content": {
+      "es": {
+        "prompt": "Cuando Jesús calmó la tempestad, ¿qué les preguntó después a sus discípulos?",
+        "options": [
+          "¿Por qué tenéis tanto miedo? ¿No tenéis fe?",
+          "¿Quién sabe navegar mejor?",
+          "¿Por qué me despertaron?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús reprendió el viento y el mar, y luego cuestionó la falta de fe de sus discípulos ante el miedo.",
+        "historicalContext": "El Mar de Galilea es propenso a tormentas repentinas por la geografía de colinas que lo rodean.",
+        "culturalContext": "Varios discípulos eran pescadores experimentados; que ellos temieran subraya la gravedad de la tormenta.",
+        "mainTeaching": "El episodio muestra la autoridad de Jesús sobre la naturaleza y llama a confiar en él en medio del temor.",
+        "verseText": "Jesús les dijo: ¿Por qué tienen tanto miedo? ¿Todavía no tienen fe?"
+      },
+      "en": {
+        "prompt": "After calming the storm, what did Jesus ask his disciples?",
+        "options": [
+          "Why are you so afraid? Do you still have no faith?",
+          "Who here can sail better?",
+          "Why did you wake me?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus rebuked the wind and sea, then questioned his disciples' lack of faith in their fear.",
+        "historicalContext": "The Sea of Galilee is prone to sudden storms due to the surrounding hills' geography.",
+        "culturalContext": "Several disciples were experienced fishermen; their fear underscores how severe the storm was.",
+        "mainTeaching": "The episode shows Jesus's authority over nature and calls his followers to trust him amid fear.",
+        "verseText": "He said to them: Why are you so afraid? Do you still have no faith?"
+      }
+    }
+  },
+  {
+    "id": "jn-06-milagros-03",
+    "reference": {
+      "gospel": "Juan",
+      "chapter": 6,
+      "verses": "1-14"
+    },
+    "characters": [
+      "Jesús",
+      "un niño",
+      "los discípulos",
+      "la multitud"
+    ],
+    "location": "orillas del Mar de Galilea",
+    "category": "milagros",
+    "subcategory": "provision",
+    "level": 3,
+    "difficulty": "all",
+    "illustration": "milagros/multiplicacion-panes.png",
+    "keywords": [
+      "panes",
+      "peces",
+      "multitud",
+      "provisión"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Con cuántos panes y peces alimentó Jesús a la multitud?",
+        "options": [
+          "5 panes y 2 peces",
+          "7 panes y 3 peces",
+          "2 panes y 5 peces"
+        ],
+        "correctIndex": 0,
+        "explanation": "Un niño ofreció 5 panes de cebada y 2 peces; Jesús los multiplicó para alimentar a miles de personas.",
+        "historicalContext": "El pan de cebada era comida humilde, típica de los pobres, lo que resalta lo modesto de la ofrenda inicial.",
+        "culturalContext": "Compartir comida en multitud remitía a la hospitalidad y provisión de Dios en el desierto con el maná.",
+        "mainTeaching": "El milagro enseña que Jesús provee abundantemente incluso a partir de lo poco que se le ofrece.",
+        "verseText": "Todos comieron hasta quedar satisfechos, y aun recogieron doce canastas con los pedazos que sobraron."
+      },
+      "en": {
+        "prompt": "How many loaves and fish did Jesus use to feed the crowd?",
+        "options": [
+          "5 loaves and 2 fish",
+          "7 loaves and 3 fish",
+          "2 loaves and 5 fish"
+        ],
+        "correctIndex": 0,
+        "explanation": "A boy offered 5 barley loaves and 2 fish; Jesus multiplied them to feed thousands of people.",
+        "historicalContext": "Barley bread was humble food, typical of the poor, highlighting how modest the initial offering was.",
+        "culturalContext": "Sharing food among a crowd recalled hospitality and God's provision of manna in the desert.",
+        "mainTeaching": "The miracle teaches that Jesus provides abundantly even from the little that is offered to him.",
+        "verseText": "Everyone ate until they were satisfied, and twelve baskets of leftover pieces were gathered up."
+      }
+    }
+  },
+  {
+    "id": "mc-02-milagros-04",
+    "reference": {
+      "gospel": "Marcos",
+      "chapter": 2,
+      "verses": "1-12"
+    },
+    "characters": [
+      "Jesús",
+      "un paralítico",
+      "cuatro amigos",
+      "escribas"
+    ],
+    "location": "Capernaúm",
+    "category": "milagros",
+    "subcategory": "sanidad_y_perdon",
+    "level": 4,
+    "difficulty": "all",
+    "illustration": "milagros/paralitico-techo.png",
+    "keywords": [
+      "paralítico",
+      "techo",
+      "perdón",
+      "fe"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Cómo bajaron los amigos del paralítico hasta donde estaba Jesús?",
+        "options": [
+          "Abriendo un hueco en el techo",
+          "Por la puerta principal",
+          "Por una ventana"
+        ],
+        "correctIndex": 0,
+        "explanation": "Ante la multitud que bloqueaba la entrada, sus amigos abrieron el techo y lo bajaron en su camilla.",
+        "historicalContext": "Los techos de las casas de la época eran planos, hechos de barro y ramas, y accesibles por una escalera exterior.",
+        "culturalContext": "La persistencia de los cuatro amigos era una forma culturalmente admirada de solidaridad e intercesión.",
+        "mainTeaching": "Jesús primero perdona sus pecados y luego lo sana, mostrando que su autoridad abarca cuerpo y espíritu.",
+        "verseText": "Al ver Jesús la fe de ellos, dijo al paralítico: Hijo, tus pecados te son perdonados."
+      },
+      "en": {
+        "prompt": "How did the paralyzed man's friends get him to Jesus?",
+        "options": [
+          "By digging through the roof",
+          "Through the front door",
+          "Through a window"
+        ],
+        "correctIndex": 0,
+        "explanation": "With the crowd blocking the entrance, his friends opened the roof and lowered him on his mat.",
+        "historicalContext": "Roofs of that era were flat, made of mud and branches, and reachable by an outside stairway.",
+        "culturalContext": "The four friends' persistence was a culturally admired form of solidarity and intercession.",
+        "mainTeaching": "Jesus first forgives his sins and then heals him, showing his authority covers both body and spirit.",
+        "verseText": "When Jesus saw their faith, he said to the paralyzed man: Son, your sins are forgiven."
+      }
+    }
+  },
+  {
+    "id": "mc-10-milagros-05",
+    "reference": {
+      "gospel": "Marcos",
+      "chapter": 10,
+      "verses": "46-52"
+    },
+    "characters": [
+      "Jesús",
+      "Bartimeo"
+    ],
+    "location": "Jericó",
+    "category": "milagros",
+    "subcategory": "sanidad",
+    "level": 5,
+    "difficulty": "all",
+    "illustration": "milagros/bartimeo.png",
+    "keywords": [
+      "ciego",
+      "Jericó",
+      "fe",
+      "sanidad"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué le pidió Jesús a Bartimeo antes de sanarlo?",
+        "options": [
+          "¿Qué quieres que haga por ti?",
+          "¿Cuánto tiempo llevas ciego?",
+          "¿Por qué gritas tanto?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Aunque era evidente que Bartimeo era ciego, Jesús le pidió que expresara su petición en voz propia.",
+        "historicalContext": "Los mendigos ciegos solían ubicarse en los caminos de entrada a las ciudades, como Jericó, para pedir limosna.",
+        "culturalContext": "Que Jesús se detuviera para alguien de tan baja posición social rompía las costumbres esperadas.",
+        "mainTeaching": "El milagro enseña que la fe declarada abiertamente y con insistencia es honrada por Jesús.",
+        "verseText": "Jesús le dijo: Vete, tu fe te ha sanado. Al instante recobró la vista y lo siguió por el camino."
+      },
+      "en": {
+        "prompt": "What did Jesus ask Bartimeus before healing him?",
+        "options": [
+          "What do you want me to do for you?",
+          "How long have you been blind?",
+          "Why are you shouting so much?"
+        ],
+        "correctIndex": 0,
+        "explanation": "Though it was obvious Bartimeus was blind, Jesus asked him to voice his own request.",
+        "historicalContext": "Blind beggars often positioned themselves along roads leading into cities, like Jericho, to ask for alms.",
+        "culturalContext": "Jesus stopping for someone of such low social standing broke the expected customs of the day.",
+        "mainTeaching": "The miracle teaches that faith openly and persistently declared is honored by Jesus.",
+        "verseText": "Jesus said to him: Go, your faith has healed you. At once he received his sight and followed him."
+      }
+    }
+  },
+  {
+    "id": "jn-11-milagros-06",
+    "reference": {
+      "gospel": "Juan",
+      "chapter": 11,
+      "verses": "1-44"
+    },
+    "characters": [
+      "Jesús",
+      "Lázaro",
+      "Marta",
+      "María"
+    ],
+    "location": "Betania",
+    "category": "milagros",
+    "subcategory": "resurreccion",
+    "level": 6,
+    "difficulty": "all",
+    "illustration": "milagros/lazaro.png",
+    "keywords": [
+      "Lázaro",
+      "resurrección",
+      "Betania",
+      "Marta"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué declaración hizo Jesús a Marta antes de resucitar a Lázaro?",
+        "options": [
+          "Yo soy la resurrección y la vida",
+          "Yo soy el buen pastor",
+          "Yo soy la puerta"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús le declaró a Marta 'Yo soy la resurrección y la vida' antes de llamar a Lázaro fuera de la tumba.",
+        "historicalContext": "Para entonces Lázaro llevaba cuatro días muerto, tiempo en el que se creía que el alma ya había partido.",
+        "culturalContext": "El luto judío incluía llanto público y visitas de consuelo, presentes cuando Jesús llegó a Betania.",
+        "mainTeaching": "El milagro señala a Jesús como fuente de vida eterna, no solo sanador de enfermedades físicas.",
+        "verseText": "Jesús le dijo: Yo soy la resurrección y la vida. El que cree en mí, aunque muera, vivirá."
+      },
+      "en": {
+        "prompt": "What declaration did Jesus make to Martha before raising Lazarus?",
+        "options": [
+          "I am the resurrection and the life",
+          "I am the good shepherd",
+          "I am the door"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus declared to Martha 'I am the resurrection and the life' before calling Lazarus out of the tomb.",
+        "historicalContext": "By then Lazarus had been dead four days, a time when it was believed the soul had already departed.",
+        "culturalContext": "Jewish mourning included public weeping and comforting visits, present when Jesus arrived in Bethany.",
+        "mainTeaching": "The miracle points to Jesus as the source of eternal life, not merely a healer of physical illness.",
+        "verseText": "Jesus said to her: I am the resurrection and the life. Whoever believes in me will live, even though they die."
+      }
+    }
+  }
+]

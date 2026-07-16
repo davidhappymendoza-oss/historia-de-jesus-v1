@@ -1,0 +1,426 @@
+[
+  {
+    "id": "lc-10-parabolas-01",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 10,
+      "verses": "25-37"
+    },
+    "characters": [
+      "un samaritano",
+      "un sacerdote",
+      "un levita",
+      "un hombre herido"
+    ],
+    "location": "camino de Jerusalén a Jericó",
+    "category": "parabolas",
+    "subcategory": "amor_al_projimo",
+    "level": 1,
+    "difficulty": "all",
+    "illustration": "parabolas/buen-samaritano.png",
+    "keywords": [
+      "samaritano",
+      "prójimo",
+      "compasión"
+    ],
+    "content": {
+      "es": {
+        "prompt": "En la parábola del buen samaritano, ¿quiénes pasaron de largo antes de que el samaritano ayudara?",
+        "options": [
+          "Un sacerdote y un levita",
+          "Un rey y un soldado",
+          "Dos mercaderes"
+        ],
+        "correctIndex": 0,
+        "explanation": "Un sacerdote y un levita vieron al herido y siguieron de largo; fue un samaritano quien se detuvo a ayudarlo.",
+        "historicalContext": "Judíos y samaritanos tenían una fuerte enemistad religiosa y étnica en el siglo I.",
+        "culturalContext": "Que el héroe de la historia fuera samaritano, y no un líder religioso judío, era sorprendente para la audiencia.",
+        "mainTeaching": "Jesús redefine 'prójimo' como cualquiera que muestra misericordia, sin importar su origen.",
+        "verseText": "Ve y haz tú lo mismo, le dijo Jesús al maestro de la ley que había preguntado quién era su prójimo."
+      },
+      "en": {
+        "prompt": "In the parable of the good Samaritan, who passed by before the Samaritan helped?",
+        "options": [
+          "A priest and a Levite",
+          "A king and a soldier",
+          "Two merchants"
+        ],
+        "correctIndex": 0,
+        "explanation": "A priest and a Levite saw the injured man and passed by; it was a Samaritan who stopped to help him.",
+        "historicalContext": "Jews and Samaritans held strong religious and ethnic hostility toward one another in the first century.",
+        "culturalContext": "That the hero of the story was a Samaritan, not a Jewish religious leader, was shocking to the audience.",
+        "mainTeaching": "Jesus redefines 'neighbor' as anyone who shows mercy, regardless of their background.",
+        "verseText": "Go and do likewise, Jesus told the expert in the law who had asked who his neighbor was."
+      }
+    }
+  },
+  {
+    "id": "lc-15-parabolas-02",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 15,
+      "verses": "11-32"
+    },
+    "characters": [
+      "un padre",
+      "el hijo menor",
+      "el hijo mayor"
+    ],
+    "location": "no especificado",
+    "category": "parabolas",
+    "subcategory": "arrepentimiento_y_gracia",
+    "level": 2,
+    "difficulty": "all",
+    "illustration": "parabolas/hijo-prodigo.png",
+    "keywords": [
+      "hijo pródigo",
+      "perdón",
+      "herencia"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué hizo el padre al ver regresar a su hijo menor?",
+        "options": [
+          "Corrió a abrazarlo antes de que hablara",
+          "Lo dejó esperando en la puerta",
+          "Le exigió trabajar primero"
+        ],
+        "correctIndex": 0,
+        "explanation": "El padre lo vio de lejos, corrió a su encuentro y lo abrazó antes de escuchar su confesión.",
+        "historicalContext": "Pedir la herencia en vida era una ofensa grave; equivalía a desear la muerte del padre.",
+        "culturalContext": "Que un hombre mayor corriera en público rompía el decoro esperado, mostrando la urgencia de su amor.",
+        "mainTeaching": "La parábola retrata el perdón de Dios: acoge al arrepentido con gracia, sin condiciones previas.",
+        "verseText": "Cuando todavía estaba lejos, su padre lo vio y, lleno de compasión, corrió, se echó a su cuello y lo besó."
+      },
+      "en": {
+        "prompt": "What did the father do when he saw his younger son returning?",
+        "options": [
+          "He ran to embrace him before he spoke",
+          "He left him waiting at the door",
+          "He demanded he work first"
+        ],
+        "correctIndex": 0,
+        "explanation": "The father saw him from far off, ran to meet him, and embraced him before hearing his confession.",
+        "historicalContext": "Asking for one's inheritance early was a serious offense, effectively wishing the father dead.",
+        "culturalContext": "An older man running in public broke expected decorum, showing the urgency of his love.",
+        "mainTeaching": "The parable portrays God's forgiveness: welcoming the repentant with grace, with no prior conditions.",
+        "verseText": "While he was still a long way off, his father saw him and was filled with compassion; he ran to him."
+      }
+    }
+  },
+  {
+    "id": "mt-13-parabolas-03",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 13,
+      "verses": "1-23"
+    },
+    "characters": [
+      "un sembrador"
+    ],
+    "location": "orillas del Mar de Galilea",
+    "category": "parabolas",
+    "subcategory": "recepcion_del_mensaje",
+    "level": 3,
+    "difficulty": "all",
+    "illustration": "parabolas/sembrador.png",
+    "keywords": [
+      "semilla",
+      "tierra",
+      "fruto"
+    ],
+    "content": {
+      "es": {
+        "prompt": "En la parábola del sembrador, ¿qué representa la semilla que cae en buena tierra?",
+        "options": [
+          "Al que oye la palabra y la entiende, dando fruto",
+          "Al que nunca escucha nada",
+          "Al que siembra sin cuidado"
+        ],
+        "correctIndex": 0,
+        "explanation": "La semilla en buena tierra representa a quien recibe la palabra, la comprende, y produce fruto abundante.",
+        "historicalContext": "La agricultura de secano en Galilea convivía con caminos, pedregales y espinos entremezclados en los campos.",
+        "culturalContext": "Las parábolas agrícolas eran fácilmente comprendidas por una audiencia mayormente campesina.",
+        "mainTeaching": "La parábola enseña que la disposición del corazón determina cuánto fruto produce el mensaje de Jesús.",
+        "verseText": "Pero el que fue sembrado en buena tierra es el que oye la palabra y la entiende, y da fruto."
+      },
+      "en": {
+        "prompt": "In the parable of the sower, what does the seed on good soil represent?",
+        "options": [
+          "One who hears the word, understands it, and bears fruit",
+          "One who never listens at all",
+          "One who sows carelessly"
+        ],
+        "correctIndex": 0,
+        "explanation": "The seed on good soil represents someone who receives the word, understands it, and produces abundant fruit.",
+        "historicalContext": "Dry farming in Galilee coexisted with paths, rocky patches, and thorns mixed throughout the fields.",
+        "culturalContext": "Agricultural parables were easily understood by an audience that was largely made up of farmers.",
+        "mainTeaching": "The parable teaches that the condition of the heart determines how much fruit Jesus's message produces.",
+        "verseText": "The one who received the seed that fell on good soil is the one who hears the word and understands it."
+      }
+    }
+  },
+  {
+    "id": "lc-15-parabolas-04",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 15,
+      "verses": "3-7"
+    },
+    "characters": [
+      "un pastor",
+      "noventa y nueve ovejas",
+      "una oveja perdida"
+    ],
+    "location": "no especificado",
+    "category": "parabolas",
+    "subcategory": "busqueda_de_lo_perdido",
+    "level": 4,
+    "difficulty": "all",
+    "illustration": "parabolas/oveja-perdida.png",
+    "keywords": [
+      "oveja",
+      "pastor",
+      "buscar"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué hace el pastor de la parábola al perder una de sus cien ovejas?",
+        "options": [
+          "Deja las 99 y va a buscar la perdida",
+          "Compra otra oveja para reemplazarla",
+          "Espera a que regrese sola"
+        ],
+        "correctIndex": 0,
+        "explanation": "El pastor deja las noventa y nueve en el desierto y va tras la oveja perdida hasta encontrarla.",
+        "historicalContext": "El pastoreo era una ocupación común y humilde; perder una oveja representaba una pérdida económica real.",
+        "culturalContext": "Encontrar la oveja provoca una celebración comunitaria, reflejando el valor del regocijo compartido.",
+        "mainTeaching": "La parábola muestra la alegría de Dios por cada persona que se aparta y regresa a él.",
+        "verseText": "Os digo que de igual manera habrá más alegría en el cielo por un pecador que se arrepiente."
+      },
+      "en": {
+        "prompt": "What does the shepherd in the parable do when he loses one of his hundred sheep?",
+        "options": [
+          "He leaves the 99 and searches for the lost one",
+          "He buys another sheep to replace it",
+          "He waits for it to return on its own"
+        ],
+        "correctIndex": 0,
+        "explanation": "The shepherd leaves the ninety-nine in the wilderness and goes after the lost sheep until he finds it.",
+        "historicalContext": "Shepherding was a common, humble occupation; losing a sheep represented a real economic loss.",
+        "culturalContext": "Finding the sheep prompts a community celebration, reflecting the value placed on shared joy.",
+        "mainTeaching": "The parable shows God's joy over every person who strays and returns to him.",
+        "verseText": "I tell you, in the same way there will be more rejoicing in heaven over one sinner who repents."
+      }
+    }
+  },
+  {
+    "id": "mt-25-parabolas-05",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 25,
+      "verses": "14-30"
+    },
+    "characters": [
+      "un señor",
+      "tres siervos"
+    ],
+    "location": "no especificado",
+    "category": "parabolas",
+    "subcategory": "mayordomia",
+    "level": 5,
+    "difficulty": "all",
+    "illustration": "parabolas/talentos.png",
+    "keywords": [
+      "talentos",
+      "siervos",
+      "fidelidad"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué hizo el siervo que recibió un solo talento?",
+        "options": [
+          "Lo enterró por miedo a perderlo",
+          "Lo invirtió y ganó el doble",
+          "Se lo dio a otro siervo"
+        ],
+        "correctIndex": 0,
+        "explanation": "Por temor, el tercer siervo enterró su talento en vez de ponerlo a producir como hicieron los otros dos.",
+        "historicalContext": "Un talento era una gran suma de dinero, equivalente a años de salario de un trabajador común.",
+        "culturalContext": "Enterrar dinero era una forma conocida de resguardarlo, aunque implicaba no generar ningún beneficio.",
+        "mainTeaching": "La parábola enseña que Dios espera que usemos con valentía lo que nos ha confiado, sin actuar por miedo.",
+        "verseText": "Bien, buen siervo y fiel; sobre poco has sido fiel, sobre mucho te pondré. Entra en el gozo de tu señor."
+      },
+      "en": {
+        "prompt": "What did the servant who received a single talent do?",
+        "options": [
+          "He buried it out of fear of losing it",
+          "He invested it and doubled it",
+          "He gave it to another servant"
+        ],
+        "correctIndex": 0,
+        "explanation": "Out of fear, the third servant buried his talent instead of putting it to work like the other two did.",
+        "historicalContext": "A talent was a very large sum of money, equivalent to years of an ordinary worker's wages.",
+        "culturalContext": "Burying money was a known way to safeguard it, though it meant generating no benefit at all.",
+        "mainTeaching": "The parable teaches that God expects us to boldly use what he has entrusted to us, not act out of fear.",
+        "verseText": "Well done, good and faithful servant! You have been faithful with a few things; enter your master's joy."
+      }
+    }
+  },
+  {
+    "id": "lc-18-parabolas-06",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 18,
+      "verses": "9-14"
+    },
+    "characters": [
+      "un fariseo",
+      "un publicano"
+    ],
+    "location": "el templo",
+    "category": "parabolas",
+    "subcategory": "humildad",
+    "level": 6,
+    "difficulty": "all",
+    "illustration": "parabolas/fariseo-publicano.png",
+    "keywords": [
+      "fariseo",
+      "publicano",
+      "humildad",
+      "oración"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Quién de los dos, el fariseo o el publicano, volvió a casa justificado según Jesús?",
+        "options": [
+          "El publicano",
+          "El fariseo",
+          "Ninguno de los dos"
+        ],
+        "correctIndex": 0,
+        "explanation": "El publicano, humillado y reconociendo su pecado, fue quien volvió a casa justificado ante Dios.",
+        "historicalContext": "Los publicanos (cobradores de impuestos) eran despreciados por colaborar con Roma; los fariseos eran muy respetados.",
+        "culturalContext": "Invertir los roles esperados de 'justo' y 'pecador' era una estrategia retórica característica de Jesús.",
+        "mainTeaching": "La parábola enseña que Dios exalta al humilde y se opone al que confía en su propia justicia.",
+        "verseText": "Porque todo el que se enaltece será humillado, y el que se humilla será enaltecido."
+      },
+      "en": {
+        "prompt": "According to Jesus, who went home justified — the Pharisee or the tax collector?",
+        "options": [
+          "The tax collector",
+          "The Pharisee",
+          "Neither of them"
+        ],
+        "correctIndex": 0,
+        "explanation": "The tax collector, humbled and acknowledging his sin, was the one who went home justified before God.",
+        "historicalContext": "Tax collectors were despised for collaborating with Rome; Pharisees were highly respected.",
+        "culturalContext": "Reversing the expected roles of 'righteous' and 'sinner' was a rhetorical strategy typical of Jesus.",
+        "mainTeaching": "The parable teaches that God exalts the humble and opposes those who trust in their own righteousness.",
+        "verseText": "For all those who exalt themselves will be humbled, and those who humble themselves will be exalted."
+      }
+    }
+  },
+  {
+    "id": "mt-13-parabolas-07",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 13,
+      "verses": "31-32"
+    },
+    "characters": [],
+    "location": "no especificado",
+    "category": "parabolas",
+    "subcategory": "reino_de_dios",
+    "level": 7,
+    "difficulty": "all",
+    "illustration": "parabolas/grano-mostaza.png",
+    "keywords": [
+      "mostaza",
+      "reino de los cielos",
+      "crecimiento"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Con qué compara Jesús el Reino de los Cielos en esta parábola?",
+        "options": [
+          "Con un grano de mostaza que crece hasta ser un gran árbol",
+          "Con una montaña inamovible",
+          "Con un río caudaloso"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús compara el Reino con la semilla de mostaza: diminuta al sembrarse, pero que crece hasta ser un gran arbusto.",
+        "historicalContext": "La semilla de mostaza era proverbialmente pequeña en la cultura agrícola de la región.",
+        "culturalContext": "Las aves anidando en sus ramas evocaban imágenes proféticas de un reino que da cobijo a las naciones.",
+        "mainTeaching": "La parábola enseña que el Reino de Dios comienza pequeño pero crece hasta un alcance sorprendente.",
+        "verseText": "Es la más pequeña de todas las semillas, pero se convierte en la más grande de las hortalizas."
+      },
+      "en": {
+        "prompt": "What does Jesus compare the Kingdom of Heaven to in this parable?",
+        "options": [
+          "A mustard seed that grows into a large tree",
+          "An immovable mountain",
+          "A mighty river"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus compares the Kingdom to a mustard seed: tiny when planted, but growing into a large shrub.",
+        "historicalContext": "The mustard seed was proverbially tiny within the agricultural culture of the region.",
+        "culturalContext": "Birds nesting in its branches evoked prophetic imagery of a kingdom sheltering the nations.",
+        "mainTeaching": "The parable teaches that the Kingdom of God starts small but grows to a surprising reach.",
+        "verseText": "It is the smallest of all seeds, but it becomes the largest of garden plants."
+      }
+    }
+  },
+  {
+    "id": "lc-12-parabolas-08",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 12,
+      "verses": "16-21"
+    },
+    "characters": [
+      "un hombre rico"
+    ],
+    "location": "no especificado",
+    "category": "parabolas",
+    "subcategory": "materialismo",
+    "level": 8,
+    "difficulty": "all",
+    "illustration": "parabolas/rico-insensato.png",
+    "keywords": [
+      "riqueza",
+      "graneros",
+      "insensatez"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué planeaba hacer el rico insensato con su abundante cosecha?",
+        "options": [
+          "Construir graneros más grandes para acumularla",
+          "Repartirla entre los pobres",
+          "Venderla de inmediato"
+        ],
+        "correctIndex": 0,
+        "explanation": "El hombre decidió derribar sus graneros y construir otros más grandes para guardar toda su riqueza.",
+        "historicalContext": "Una buena cosecha podía asegurar años de estabilidad, por lo que acumular grano era una práctica común.",
+        "culturalContext": "Hablar solo consigo mismo sobre su fortuna resalta su aislamiento respecto a Dios y a los demás.",
+        "mainTeaching": "La parábola advierte contra fiar la seguridad en las riquezas en vez de ser rico para con Dios.",
+        "verseText": "Esa misma noche te pedirán la vida. ¿Y para quién será todo lo que has acumulado?"
+      },
+      "en": {
+        "prompt": "What did the foolish rich man plan to do with his abundant harvest?",
+        "options": [
+          "Build bigger barns to store it all",
+          "Give it away to the poor",
+          "Sell it immediately"
+        ],
+        "correctIndex": 0,
+        "explanation": "The man decided to tear down his barns and build bigger ones to store all of his wealth.",
+        "historicalContext": "A good harvest could secure years of stability, so accumulating grain was a common practice.",
+        "culturalContext": "Talking only to himself about his fortune highlights his isolation from both God and others.",
+        "mainTeaching": "The parable warns against placing security in wealth rather than being rich toward God.",
+        "verseText": "This very night your life will be demanded from you. Then who will get what you have prepared?"
+      }
+    }
+  }
+]

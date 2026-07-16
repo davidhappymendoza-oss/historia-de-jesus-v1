@@ -1,0 +1,110 @@
+[
+  {
+    "id": "lc-22-cronologia-01",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 22,
+      "verses": "14-20"
+    },
+    "characters": [
+      "Jesús",
+      "los doce discípulos"
+    ],
+    "location": "el aposento alto, Jerusalén",
+    "category": "cronologia",
+    "subcategory": "ultima_cena",
+    "level": 1,
+    "difficulty": "all",
+    "illustration": "cronologia/ultima-cena.png",
+    "keywords": [
+      "última cena",
+      "pan",
+      "vino",
+      "pascua"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué comida judía estaban celebrando Jesús y sus discípulos durante la última cena?",
+        "options": [
+          "La Pascua",
+          "El Pentecostés",
+          "El día del perdón"
+        ],
+        "correctIndex": 0,
+        "explanation": "La última cena tuvo lugar durante la celebración de la Pascua judía, la noche antes de la crucifixión.",
+        "historicalContext": "La Pascua conmemoraba la liberación del pueblo de Israel de la esclavitud en Egipto.",
+        "culturalContext": "Jesús reinterpreta el pan y el vino de la cena como símbolos de su propio cuerpo y sangre.",
+        "mainTeaching": "El momento establece lo que la iglesia luego recordaría como la Cena del Señor.",
+        "verseText": "Esto es mi cuerpo, que por vosotros es dado; haced esto en memoria de mí."
+      },
+      "en": {
+        "prompt": "Which Jewish meal were Jesus and his disciples observing during the Last Supper?",
+        "options": [
+          "Passover",
+          "Pentecost",
+          "The Day of Atonement"
+        ],
+        "correctIndex": 0,
+        "explanation": "The Last Supper took place during the celebration of the Jewish Passover, the night before the crucifixion.",
+        "historicalContext": "Passover commemorated the liberation of the people of Israel from slavery in Egypt.",
+        "culturalContext": "Jesus reinterprets the bread and wine of the meal as symbols of his own body and blood.",
+        "mainTeaching": "The moment establishes what the church would later remember as the Lord's Supper.",
+        "verseText": "This is my body given for you; do this in remembrance of me."
+      }
+    }
+  },
+  {
+    "id": "lc-24-cronologia-02",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 24,
+      "verses": "1-12"
+    },
+    "characters": [
+      "mujeres seguidoras de Jesús",
+      "dos ángeles",
+      "Pedro"
+    ],
+    "location": "el sepulcro, Jerusalén",
+    "category": "cronologia",
+    "subcategory": "resurreccion",
+    "level": 2,
+    "difficulty": "all",
+    "illustration": "cronologia/resurreccion.png",
+    "keywords": [
+      "resurrección",
+      "tercer día",
+      "sepulcro vacío"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué encontraron las mujeres al llegar al sepulcro la mañana del tercer día?",
+        "options": [
+          "La piedra removida y el sepulcro vacío",
+          "El cuerpo de Jesús intacto",
+          "Soldados romanos dormidos"
+        ],
+        "correctIndex": 0,
+        "explanation": "Las mujeres encontraron la piedra removida y el sepulcro vacío; dos ángeles anunciaron que Jesús había resucitado.",
+        "historicalContext": "Jesús había anticipado varias veces que resucitaría al tercer día después de su muerte.",
+        "culturalContext": "Que fueran mujeres las primeras testigas de la tumba vacía era inusual dado el bajo estatus legal de su testimonio.",
+        "mainTeaching": "La resurrección al tercer día es el evento central que confirma las afirmaciones de Jesús sobre sí mismo.",
+        "verseText": "¿Por qué buscáis entre los muertos al que vive? No está aquí, sino que ha resucitado."
+      },
+      "en": {
+        "prompt": "What did the women find when they arrived at the tomb on the morning of the third day?",
+        "options": [
+          "The stone rolled away and the tomb empty",
+          "Jesus's body intact",
+          "Roman soldiers asleep"
+        ],
+        "correctIndex": 0,
+        "explanation": "The women found the stone rolled away and the tomb empty; two angels announced that Jesus had risen.",
+        "historicalContext": "Jesus had repeatedly foretold that he would rise again on the third day after his death.",
+        "culturalContext": "That women were the first witnesses to the empty tomb was unusual given the low legal status of their testimony.",
+        "mainTeaching": "The resurrection on the third day is the central event confirming Jesus's claims about himself.",
+        "verseText": "Why do you look for the living among the dead? He is not here; he has risen!"
+      }
+    }
+  }
+]

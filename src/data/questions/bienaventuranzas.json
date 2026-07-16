@@ -1,0 +1,416 @@
+[
+  {
+    "id": "mt-05-bienav-01",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "3"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "bienaventuranzas",
+    "subcategory": "primera_bienaventuranza",
+    "level": 1,
+    "difficulty": "all",
+    "illustration": "bienaventuranzas/pobres-espiritu.png",
+    "keywords": [
+      "bienaventuranzas",
+      "sermón del monte",
+      "humildad"
+    ],
+    "content": {
+      "es": {
+        "prompt": "Según la primera bienaventuranza, ¿de quiénes es el reino de los cielos?",
+        "options": [
+          "De los pobres en espíritu",
+          "De los ricos generosos",
+          "De los sabios instruidos"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús declara bienaventurados a los pobres en espíritu, pues de ellos es el reino de los cielos.",
+        "historicalContext": "El Sermón del Monte se dirigía a una audiencia mayormente pobre bajo dominio romano.",
+        "culturalContext": "'Pobre en espíritu' remite a quien reconoce su necesidad total de Dios, no a la pobreza material en sí.",
+        "mainTeaching": "Enseña que la humildad ante Dios, no el mérito propio, es la puerta de entrada a su reino.",
+        "verseText": "Bienaventurados los pobres en espíritu, porque de ellos es el reino de los cielos."
+      },
+      "en": {
+        "prompt": "According to the first beatitude, whose is the kingdom of heaven?",
+        "options": [
+          "The poor in spirit",
+          "Generous rich people",
+          "Educated scholars"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus declares the poor in spirit blessed, for theirs is the kingdom of heaven.",
+        "historicalContext": "The Sermon on the Mount addressed a largely poor audience living under Roman rule.",
+        "culturalContext": "'Poor in spirit' points to one who recognizes total need for God, not material poverty itself.",
+        "mainTeaching": "It teaches that humility before God, not personal merit, is the gateway into his kingdom.",
+        "verseText": "Blessed are the poor in spirit, for theirs is the kingdom of heaven."
+      }
+    }
+  },
+  {
+    "id": "mt-05-bienav-02",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "4"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "bienaventuranzas",
+    "subcategory": "segunda_bienaventuranza",
+    "level": 2,
+    "difficulty": "all",
+    "illustration": "bienaventuranzas/los-que-lloran.png",
+    "keywords": [
+      "bienaventuranzas",
+      "consuelo",
+      "duelo"
+    ],
+    "content": {
+      "es": {
+        "prompt": "Según Jesús, ¿qué recibirán los que lloran?",
+        "options": [
+          "Serán consolados",
+          "Recibirán riquezas",
+          "Serán famosos"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús promete que quienes lloran serán consolados por Dios mismo.",
+        "historicalContext": "El duelo público era una práctica común y visible en la cultura judía del primer siglo.",
+        "culturalContext": "La promesa de consuelo divino contrastaba con la ausencia de garantías de bienestar en la vida cotidiana.",
+        "mainTeaching": "Enseña que el sufrimiento honesto ante Dios no queda sin respuesta ni sin esperanza.",
+        "verseText": "Bienaventurados los que lloran, porque ellos recibirán consolación."
+      },
+      "en": {
+        "prompt": "According to Jesus, what will those who mourn receive?",
+        "options": [
+          "They will be comforted",
+          "They will receive riches",
+          "They will become famous"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus promises that those who mourn will be comforted by God himself.",
+        "historicalContext": "Public mourning was a common, visible practice in first-century Jewish culture.",
+        "culturalContext": "The promise of divine comfort stood in contrast to the lack of guaranteed wellbeing in daily life.",
+        "mainTeaching": "It teaches that honest suffering brought before God does not go unanswered or without hope.",
+        "verseText": "Blessed are those who mourn, for they will be comforted."
+      }
+    }
+  },
+  {
+    "id": "mt-05-bienav-03",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "5"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "bienaventuranzas",
+    "subcategory": "tercera_bienaventuranza",
+    "level": 3,
+    "difficulty": "all",
+    "illustration": "bienaventuranzas/los-mansos.png",
+    "keywords": [
+      "bienaventuranzas",
+      "mansedumbre",
+      "tierra"
+    ],
+    "content": {
+      "es": {
+        "prompt": "Según Jesús, ¿qué heredarán los mansos?",
+        "options": [
+          "La tierra",
+          "Grandes ejércitos",
+          "El poder político"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús declara que los mansos heredarán la tierra, invirtiendo la lógica del poder por la fuerza.",
+        "historicalContext": "En un contexto de ocupación romana, 'heredar la tierra' evocaba esperanzas mesiánicas del pueblo judío.",
+        "culturalContext": "La mansedumbre no era debilidad, sino fuerza controlada y sometida a Dios.",
+        "mainTeaching": "Enseña que la humildad paciente, no la conquista violenta, es el camino del Reino de Dios.",
+        "verseText": "Bienaventurados los mansos, porque ellos heredarán la tierra."
+      },
+      "en": {
+        "prompt": "According to Jesus, what will the meek inherit?",
+        "options": [
+          "The earth",
+          "Great armies",
+          "Political power"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus declares that the meek will inherit the earth, reversing the logic of power through force.",
+        "historicalContext": "Under Roman occupation, 'inheriting the land' evoked messianic hopes among the Jewish people.",
+        "culturalContext": "Meekness was not weakness, but controlled strength submitted to God.",
+        "mainTeaching": "It teaches that patient humility, not violent conquest, is the way of the Kingdom of God.",
+        "verseText": "Blessed are the meek, for they will inherit the earth."
+      }
+    }
+  },
+  {
+    "id": "mt-05-bienav-04",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "6"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "bienaventuranzas",
+    "subcategory": "cuarta_bienaventuranza",
+    "level": 4,
+    "difficulty": "all",
+    "illustration": "bienaventuranzas/hambre-de-justicia.png",
+    "keywords": [
+      "bienaventuranzas",
+      "justicia",
+      "hambre"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué promete Jesús a los que tienen hambre y sed de justicia?",
+        "options": [
+          "Serán saciados",
+          "Recibirán tierras",
+          "Vivirán muchos años"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús promete que quienes anhelan la justicia con la intensidad del hambre y la sed serán saciados.",
+        "historicalContext": "El hambre y la sed eran experiencias cotidianas reales para gran parte de la audiencia de Jesús.",
+        "culturalContext": "'Justicia' aquí incluye tanto la rectitud personal como la justicia social esperada por los profetas.",
+        "mainTeaching": "Enseña que Dios satisface plenamente a quien busca vivir y ver establecida su justicia.",
+        "verseText": "Bienaventurados los que tienen hambre y sed de justicia, porque ellos serán saciados."
+      },
+      "en": {
+        "prompt": "What does Jesus promise to those who hunger and thirst for righteousness?",
+        "options": [
+          "They will be filled",
+          "They will receive land",
+          "They will live many years"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus promises that those who long for righteousness as intensely as hunger and thirst will be filled.",
+        "historicalContext": "Hunger and thirst were real everyday experiences for much of Jesus's audience.",
+        "culturalContext": "'Righteousness' here includes both personal integrity and the social justice expected by the prophets.",
+        "mainTeaching": "It teaches that God fully satisfies those who seek to live out and see his justice established.",
+        "verseText": "Blessed are those who hunger and thirst for righteousness, for they will be filled."
+      }
+    }
+  },
+  {
+    "id": "mt-05-bienav-05",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "7"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "bienaventuranzas",
+    "subcategory": "quinta_bienaventuranza",
+    "level": 5,
+    "difficulty": "all",
+    "illustration": "bienaventuranzas/misericordiosos.png",
+    "keywords": [
+      "bienaventuranzas",
+      "misericordia"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué recibirán los misericordiosos, según Jesús?",
+        "options": [
+          "Alcanzarán misericordia",
+          "Recibirán autoridad",
+          "Serán ricos"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús enseña que quienes muestran misericordia también la recibirán de parte de Dios.",
+        "historicalContext": "La misericordia (rahamim/hesed) era un valor central de la ética del Antiguo Testamento.",
+        "culturalContext": "Mostrar compasión activa hacia el necesitado era considerado una virtud religiosa esencial.",
+        "mainTeaching": "Enseña una relación recíproca entre cómo tratamos a otros y cómo Dios nos trata a nosotros.",
+        "verseText": "Bienaventurados los misericordiosos, porque ellos alcanzarán misericordia."
+      },
+      "en": {
+        "prompt": "According to Jesus, what will the merciful receive?",
+        "options": [
+          "They will be shown mercy",
+          "They will receive authority",
+          "They will become wealthy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus teaches that those who show mercy will also receive mercy from God.",
+        "historicalContext": "Mercy (hesed) was a central value of Old Testament ethics.",
+        "culturalContext": "Showing active compassion toward the needy was considered an essential religious virtue.",
+        "mainTeaching": "It teaches a reciprocal relationship between how we treat others and how God treats us.",
+        "verseText": "Blessed are the merciful, for they will be shown mercy."
+      }
+    }
+  },
+  {
+    "id": "mt-05-bienav-06",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "8"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "bienaventuranzas",
+    "subcategory": "sexta_bienaventuranza",
+    "level": 6,
+    "difficulty": "all",
+    "illustration": "bienaventuranzas/limpio-corazon.png",
+    "keywords": [
+      "bienaventuranzas",
+      "pureza",
+      "corazón"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué verán los de limpio corazón, según Jesús?",
+        "options": [
+          "A Dios",
+          "Su propio futuro",
+          "A los ángeles"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús promete que los de limpio corazón verán a Dios.",
+        "historicalContext": "El corazón, en el pensamiento hebreo, representaba el centro de la voluntad e intención, no solo la emoción.",
+        "culturalContext": "La pureza ritual era importante en la práctica judía, pero Jesús aquí apunta a la pureza interior.",
+        "mainTeaching": "Enseña que la integridad interior, y no solo la conducta externa, abre el camino a la comunión con Dios.",
+        "verseText": "Bienaventurados los de limpio corazón, porque ellos verán a Dios."
+      },
+      "en": {
+        "prompt": "According to Jesus, what will the pure in heart see?",
+        "options": [
+          "God",
+          "Their own future",
+          "Angels"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus promises that the pure in heart will see God.",
+        "historicalContext": "In Hebrew thought, the heart represented the center of will and intention, not just emotion.",
+        "culturalContext": "Ritual purity mattered in Jewish practice, but Jesus here points to inner purity instead.",
+        "mainTeaching": "It teaches that inner integrity, not just external behavior, opens the way to communion with God.",
+        "verseText": "Blessed are the pure in heart, for they will see God."
+      }
+    }
+  },
+  {
+    "id": "mt-05-bienav-07",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "9"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "bienaventuranzas",
+    "subcategory": "septima_bienaventuranza",
+    "level": 7,
+    "difficulty": "all",
+    "illustration": "bienaventuranzas/pacificadores.png",
+    "keywords": [
+      "bienaventuranzas",
+      "paz"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Cómo serán llamados los pacificadores, según Jesús?",
+        "options": [
+          "Hijos de Dios",
+          "Siervos del rey",
+          "Maestros de la ley"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús dice que los pacificadores serán llamados hijos de Dios.",
+        "historicalContext": "En un contexto de ocupación romana y tensiones violentas, promover la paz era contracultural.",
+        "culturalContext": "Ser llamado 'hijo de' alguien en la cultura semita significaba compartir su carácter o naturaleza.",
+        "mainTeaching": "Enseña que buscar activamente la reconciliación refleja el carácter mismo de Dios.",
+        "verseText": "Bienaventurados los pacificadores, porque ellos serán llamados hijos de Dios."
+      },
+      "en": {
+        "prompt": "According to Jesus, what will peacemakers be called?",
+        "options": [
+          "Children of God",
+          "Servants of the king",
+          "Teachers of the law"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus says that peacemakers will be called children of God.",
+        "historicalContext": "Amid Roman occupation and violent tensions, actively promoting peace was countercultural.",
+        "culturalContext": "Being called 'a child of' someone in Semitic culture meant sharing their character or nature.",
+        "mainTeaching": "It teaches that actively seeking reconciliation reflects the very character of God.",
+        "verseText": "Blessed are the peacemakers, for they will be called children of God."
+      }
+    }
+  },
+  {
+    "id": "mt-05-bienav-08",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "10"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "bienaventuranzas",
+    "subcategory": "octava_bienaventuranza",
+    "level": 8,
+    "difficulty": "all",
+    "illustration": "bienaventuranzas/perseguidos.png",
+    "keywords": [
+      "bienaventuranzas",
+      "persecución",
+      "justicia"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué promete Jesús a los perseguidos por causa de la justicia?",
+        "options": [
+          "De ellos es el reino de los cielos",
+          "Recibirán venganza divina",
+          "Vivirán sin problemas"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús cierra las bienaventuranzas prometiendo el reino de los cielos a los perseguidos por causa de la justicia.",
+        "historicalContext": "Los primeros seguidores de Jesús enfrentarían oposición real de autoridades religiosas y políticas.",
+        "culturalContext": "Esta bienaventuranza conecta directamente con la primera, formando un marco (inclusio) en todo el pasaje.",
+        "mainTeaching": "Enseña que la fidelidad a la justicia de Dios tiene un costo, pero también una recompensa segura.",
+        "verseText": "Bienaventurados los perseguidos por causa de la justicia, porque de ellos es el reino de los cielos."
+      },
+      "en": {
+        "prompt": "What does Jesus promise to those persecuted for righteousness' sake?",
+        "options": [
+          "Theirs is the kingdom of heaven",
+          "They will receive divine revenge",
+          "They will live without problems"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus closes the beatitudes by promising the kingdom of heaven to those persecuted for righteousness.",
+        "historicalContext": "Jesus's earliest followers would face real opposition from religious and political authorities.",
+        "culturalContext": "This beatitude directly echoes the first one, forming a frame (inclusio) around the whole passage.",
+        "mainTeaching": "It teaches that faithfulness to God's righteousness has a cost, but also a certain reward.",
+        "verseText": "Blessed are those who are persecuted for righteousness' sake, for theirs is the kingdom of heaven."
+      }
+    }
+  }
+]

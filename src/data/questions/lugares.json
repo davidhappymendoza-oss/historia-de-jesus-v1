@@ -1,0 +1,217 @@
+[
+  {
+    "id": "lc-02-lugares-01",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 2,
+      "verses": "1-7"
+    },
+    "characters": [
+      "María",
+      "José",
+      "Jesús"
+    ],
+    "location": "Belén",
+    "category": "lugares",
+    "subcategory": "nacimiento",
+    "level": 1,
+    "difficulty": "all",
+    "illustration": "lugares/belen.png",
+    "keywords": [
+      "Belén",
+      "nacimiento",
+      "pesebre"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Por qué se encontraban María y José en Belén cuando nació Jesús?",
+        "options": [
+          "Por un censo del Imperio Romano",
+          "Estaban de vacaciones",
+          "Huían de una tormenta"
+        ],
+        "correctIndex": 0,
+        "explanation": "Un decreto de censo de César Augusto obligó a José a viajar a Belén, su ciudad de origen familiar.",
+        "historicalContext": "Belén era conocida como la 'ciudad de David', relevante para las expectativas mesiánicas judías.",
+        "culturalContext": "Que Jesús naciera en un pesebre refleja la humildad de las circunstancias de su llegada.",
+        "mainTeaching": "El nacimiento en Belén cumple la esperanza profética de un gobernante que vendría de esa ciudad.",
+        "verseText": "Y dio a luz a su hijo primogénito, lo envolvió en pañales y lo acostó en un pesebre."
+      },
+      "en": {
+        "prompt": "Why were Mary and Joseph in Bethlehem when Jesus was born?",
+        "options": [
+          "A Roman Empire census",
+          "They were on vacation",
+          "They were fleeing a storm"
+        ],
+        "correctIndex": 0,
+        "explanation": "A census decree from Caesar Augustus required Joseph to travel to Bethlehem, his family's town of origin.",
+        "historicalContext": "Bethlehem was known as the 'city of David,' significant to Jewish messianic expectations.",
+        "culturalContext": "That Jesus was born in a manger reflects the humble circumstances of his arrival.",
+        "mainTeaching": "The birth in Bethlehem fulfills the prophetic hope of a ruler who would come from that town.",
+        "verseText": "She gave birth to her firstborn son, wrapped him in cloths, and placed him in a manger."
+      }
+    }
+  },
+  {
+    "id": "lc-04-lugares-02",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 4,
+      "verses": "16-30"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "Nazaret",
+    "category": "lugares",
+    "subcategory": "rechazo",
+    "level": 2,
+    "difficulty": "all",
+    "illustration": "lugares/nazaret.png",
+    "keywords": [
+      "Nazaret",
+      "sinagoga",
+      "rechazo"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Cómo reaccionó la gente de Nazaret cuando Jesús se aplicó una profecía a sí mismo en la sinagoga?",
+        "options": [
+          "Se enfurecieron y quisieron despeñarlo",
+          "Lo aclamaron como rey",
+          "Le pidieron más enseñanzas"
+        ],
+        "correctIndex": 0,
+        "explanation": "Al oírlo aplicarse la profecía de Isaías a sí mismo, la multitud se llenó de ira y trató de arrojarlo por un precipicio.",
+        "historicalContext": "Nazaret era su pueblo natal; muchos lo conocían desde niño, lo que dificultó que aceptaran su autoridad.",
+        "culturalContext": "Leer y comentar las Escrituras en la sinagoga era una práctica pública habitual en sábado.",
+        "mainTeaching": "El episodio ilustra el dicho de Jesús de que 'ningún profeta es aceptado en su propia tierra'.",
+        "verseText": "Ningún profeta es aceptado en su propia tierra, les dijo Jesús a los presentes en la sinagoga."
+      },
+      "en": {
+        "prompt": "How did the people of Nazareth react when Jesus applied a prophecy to himself in the synagogue?",
+        "options": [
+          "They became furious and tried to throw him off a cliff",
+          "They acclaimed him as king",
+          "They asked for more teaching"
+        ],
+        "correctIndex": 0,
+        "explanation": "Hearing him apply Isaiah's prophecy to himself, the crowd grew furious and tried to throw him off a cliff.",
+        "historicalContext": "Nazareth was his hometown; many had known him since childhood, making his authority hard to accept.",
+        "culturalContext": "Reading and commenting on Scripture in the synagogue was a routine public practice on the Sabbath.",
+        "mainTeaching": "The episode illustrates Jesus's saying that 'no prophet is accepted in his hometown.'",
+        "verseText": "No prophet is accepted in his hometown, Jesus told those gathered in the synagogue."
+      }
+    }
+  },
+  {
+    "id": "mt-21-lugares-03",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 21,
+      "verses": "1-11"
+    },
+    "characters": [
+      "Jesús",
+      "los discípulos",
+      "la multitud"
+    ],
+    "location": "Jerusalén",
+    "category": "lugares",
+    "subcategory": "entrada_triunfal",
+    "level": 3,
+    "difficulty": "all",
+    "illustration": "lugares/entrada-jerusalen.png",
+    "keywords": [
+      "Jerusalén",
+      "entrada triunfal",
+      "palmas"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿En qué animal entró Jesús a Jerusalén el domingo de ramos?",
+        "options": [
+          "Un burro (asno)",
+          "Un caballo blanco",
+          "Un camello"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús entró a Jerusalén montado en un burro, mientras la multitud extendía mantos y ramas en el camino.",
+        "historicalContext": "Entrar en burro, y no en caballo de guerra, señalaba un tipo de rey humilde y pacífico.",
+        "culturalContext": "Agitar ramas y gritar '¡Hosanna!' era una forma de aclamación festiva y mesiánica.",
+        "mainTeaching": "El evento cumple la profecía de un rey humilde que llega a Jerusalén en son de paz.",
+        "verseText": "Bendito el que viene en el nombre del Señor. ¡Hosanna en las alturas!, gritaba la multitud."
+      },
+      "en": {
+        "prompt": "What animal did Jesus ride into Jerusalem on Palm Sunday?",
+        "options": [
+          "A donkey",
+          "A white warhorse",
+          "A camel"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus entered Jerusalem riding a donkey, while the crowd spread cloaks and branches along the road.",
+        "historicalContext": "Riding a donkey, rather than a warhorse, signaled a humble, peaceful kind of king.",
+        "culturalContext": "Waving branches and shouting 'Hosanna!' was a form of festive, messianic acclamation.",
+        "mainTeaching": "The event fulfills the prophecy of a humble king arriving in Jerusalem in peace.",
+        "verseText": "Blessed is he who comes in the name of the Lord! Hosanna in the highest, the crowd shouted."
+      }
+    }
+  },
+  {
+    "id": "mt-26-lugares-04",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 26,
+      "verses": "36-46"
+    },
+    "characters": [
+      "Jesús",
+      "Pedro",
+      "Santiago",
+      "Juan"
+    ],
+    "location": "Getsemaní",
+    "category": "lugares",
+    "subcategory": "oracion",
+    "level": 4,
+    "difficulty": "all",
+    "illustration": "lugares/getsemani.png",
+    "keywords": [
+      "Getsemaní",
+      "oración",
+      "arresto"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué hicieron los discípulos mientras Jesús oraba angustiado en Getsemaní?",
+        "options": [
+          "Se quedaron dormidos",
+          "Huyeron de inmediato",
+          "Oraron junto a él sin descanso"
+        ],
+        "correctIndex": 0,
+        "explanation": "A pesar de que Jesús les pidió velar con él, los discípulos se quedaron dormidos varias veces.",
+        "historicalContext": "Getsemaní era un huerto de olivos al pie del Monte de los Olivos, cerca de Jerusalén.",
+        "culturalContext": "La angustia intensa de Jesús ('mi alma está muy triste, hasta la muerte') muestra su humanidad plena.",
+        "mainTeaching": "El pasaje enseña la sumisión de Jesús a la voluntad del Padre incluso frente al sufrimiento inminente.",
+        "verseText": "Padre mío, si es posible, pase de mí esta copa; pero no sea como yo quiero, sino como tú."
+      },
+      "en": {
+        "prompt": "What did the disciples do while Jesus prayed in anguish in Gethsemane?",
+        "options": [
+          "They fell asleep",
+          "They fled immediately",
+          "They prayed alongside him without rest"
+        ],
+        "correctIndex": 0,
+        "explanation": "Even though Jesus asked them to keep watch with him, the disciples fell asleep several times.",
+        "historicalContext": "Gethsemane was an olive grove at the foot of the Mount of Olives, near Jerusalem.",
+        "culturalContext": "Jesus's intense anguish ('my soul is overwhelmed with sorrow to the point of death') shows his full humanity.",
+        "mainTeaching": "The passage teaches Jesus's submission to the Father's will even facing imminent suffering.",
+        "verseText": "My Father, if it is possible, may this cup be taken from me. Yet not as I will, but as you will."
+      }
+    }
+  }
+]

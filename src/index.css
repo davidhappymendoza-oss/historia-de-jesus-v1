@@ -1,0 +1,21 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html,
+  body {
+    @apply h-full;
+  }
+  #root {
+    @apply h-full;
+  }
+}
+
+@layer components {
+  /* Elemento firma: panel estilo cómic/manuscrito, borde grueso de tinta
+     + sombra sólida escalonada, usado en tarjetas de pregunta y modales. */
+  .panel-comic {
+    @apply bg-parchment border-3 border-comicblack rounded-2xl shadow-panel;
+  }
+}

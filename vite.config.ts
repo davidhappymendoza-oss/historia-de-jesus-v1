@@ -1,0 +1,24 @@
+import { defineConfig } from "vite";
+import react from "@vitejs/plugin-react";
+import path from "path";
+
+// https://vitejs.dev/config/
+export default defineConfig({
+  plugins: [react()],
+  resolve: {
+    alias: {
+      "@": path.resolve(__dirname, "./src"),
+    },
+  },
+  build: {
+    // El banco de preguntas crecerá a ~1000 items repartidos en varios JSON.
+    // Se separan en un chunk propio para no inflar el bundle principal.
+    rollupOptions: {
+      output: {
+        manualChunks: {
+          "question-bank": ["src/data/questions/manifest.ts"],
+        },
+      },
+    },
+  },
+});

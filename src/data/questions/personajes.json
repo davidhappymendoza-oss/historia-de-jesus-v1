@@ -1,0 +1,320 @@
+[
+  {
+    "id": "mt-03-personajes-01",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 3,
+      "verses": "13-17"
+    },
+    "characters": [
+      "Jesús",
+      "Juan el Bautista"
+    ],
+    "location": "río Jordán",
+    "category": "personajes",
+    "subcategory": "juan_el_bautista",
+    "level": 1,
+    "difficulty": "all",
+    "illustration": "personajes/bautismo-jesus.png",
+    "keywords": [
+      "Juan el Bautista",
+      "bautismo",
+      "río Jordán"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué ocurrió al salir Jesús del agua después de ser bautizado por Juan?",
+        "options": [
+          "Se abrieron los cielos y descendió el Espíritu como paloma",
+          "Empezó a llover intensamente",
+          "La multitud lo aclamó como rey"
+        ],
+        "correctIndex": 0,
+        "explanation": "Al salir del agua, los cielos se abrieron, el Espíritu descendió como paloma, y una voz declaró: 'Este es mi Hijo amado'.",
+        "historicalContext": "Juan el Bautista predicaba un bautismo de arrepentimiento en el desierto de Judea antes de la aparición de Jesús.",
+        "culturalContext": "Que Jesús se sometiera al bautismo, sin necesitar arrepentimiento, sorprendió incluso a Juan.",
+        "mainTeaching": "El evento revela públicamente la identidad de Jesús como el Hijo de Dios al inicio de su ministerio.",
+        "verseText": "Y una voz de los cielos decía: Este es mi Hijo amado, en quien tengo complacencia."
+      },
+      "en": {
+        "prompt": "What happened as Jesus came up out of the water after being baptized by John?",
+        "options": [
+          "Heaven opened and the Spirit descended like a dove",
+          "It began to rain heavily",
+          "The crowd acclaimed him as king"
+        ],
+        "correctIndex": 0,
+        "explanation": "As he came out of the water, heaven opened, the Spirit descended like a dove, and a voice declared: 'This is my beloved Son.'",
+        "historicalContext": "John the Baptist preached a baptism of repentance in the Judean desert before Jesus appeared.",
+        "culturalContext": "That Jesus submitted to baptism, without needing repentance, surprised even John himself.",
+        "mainTeaching": "The event publicly reveals Jesus's identity as the Son of God at the start of his ministry.",
+        "verseText": "And a voice from heaven said: This is my Son, whom I love; with him I am well pleased."
+      }
+    }
+  },
+  {
+    "id": "jn-20-personajes-02",
+    "reference": {
+      "gospel": "Juan",
+      "chapter": 20,
+      "verses": "11-18"
+    },
+    "characters": [
+      "Jesús resucitado",
+      "María Magdalena"
+    ],
+    "location": "el sepulcro vacío",
+    "category": "personajes",
+    "subcategory": "maria_magdalena",
+    "level": 2,
+    "difficulty": "all",
+    "illustration": "personajes/maria-magdalena.png",
+    "keywords": [
+      "María Magdalena",
+      "resurrección",
+      "sepulcro"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Cómo reconoció María Magdalena a Jesús resucitado, a quien al principio confundió con el hortelano?",
+        "options": [
+          "Cuando él la llamó por su nombre",
+          "Cuando vio sus manos",
+          "Cuando escuchó su risa"
+        ],
+        "correctIndex": 0,
+        "explanation": "María lo reconoció al escuchar a Jesús pronunciar su nombre: 'María'.",
+        "historicalContext": "En el testimonio legal judío del siglo I, el testimonio de mujeres tenía poco peso — por eso es notable que ellas fueran las primeras testigas.",
+        "culturalContext": "María Magdalena había sido liberada de una aflicción severa y se convirtió en seguidora cercana de Jesús.",
+        "mainTeaching": "El relato subraya que Jesús se revela de forma personal e íntima, llamando a cada uno por su nombre.",
+        "verseText": "Jesús le dijo: María. Ella se volvió y le dijo: Raboni, que quiere decir Maestro."
+      },
+      "en": {
+        "prompt": "How did Mary Magdalene recognize the risen Jesus, whom she first mistook for the gardener?",
+        "options": [
+          "When he called her by name",
+          "When she saw his hands",
+          "When she heard him laugh"
+        ],
+        "correctIndex": 0,
+        "explanation": "Mary recognized him when Jesus spoke her name: 'Mary.'",
+        "historicalContext": "In first-century Jewish legal testimony, women's witness carried little weight — making it notable they were the first witnesses.",
+        "culturalContext": "Mary Magdalene had been freed from a severe affliction and became a close follower of Jesus.",
+        "mainTeaching": "The account underscores that Jesus reveals himself personally and intimately, calling each by name.",
+        "verseText": "Jesus said to her: Mary. She turned and said to him: Rabboni, which means Teacher."
+      }
+    }
+  },
+  {
+    "id": "lc-22-personajes-03",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 22,
+      "verses": "54-62"
+    },
+    "characters": [
+      "Pedro",
+      "Jesús"
+    ],
+    "location": "patio del sumo sacerdote",
+    "category": "personajes",
+    "subcategory": "pedro",
+    "level": 3,
+    "difficulty": "all",
+    "illustration": "personajes/negacion-pedro.png",
+    "keywords": [
+      "Pedro",
+      "negación",
+      "gallo"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Cuántas veces negó Pedro conocer a Jesús antes de que cantara el gallo?",
+        "options": [
+          "Tres veces",
+          "Una vez",
+          "Cinco veces"
+        ],
+        "correctIndex": 0,
+        "explanation": "Tal como Jesús había anunciado, Pedro lo negó tres veces antes de que el gallo cantara.",
+        "historicalContext": "Ser identificado como seguidor de Jesús esa noche implicaba riesgo real de arresto.",
+        "culturalContext": "El canto del gallo marcaba una hora específica de la madrugada en la vida cotidiana romana.",
+        "mainTeaching": "El episodio muestra la fragilidad humana y anticipa la restauración posterior de Pedro por Jesús.",
+        "verseText": "Y en seguida, mientras aún hablaba, cantó el gallo. El Señor se volvió y miró a Pedro."
+      },
+      "en": {
+        "prompt": "How many times did Peter deny knowing Jesus before the rooster crowed?",
+        "options": [
+          "Three times",
+          "Once",
+          "Five times"
+        ],
+        "correctIndex": 0,
+        "explanation": "Just as Jesus had foretold, Peter denied him three times before the rooster crowed.",
+        "historicalContext": "Being identified as a follower of Jesus that night carried a real risk of arrest.",
+        "culturalContext": "The rooster's crow marked a specific early-morning hour in everyday Roman life.",
+        "mainTeaching": "The episode shows human frailty and anticipates Jesus's later restoration of Peter.",
+        "verseText": "Just as he was speaking, the rooster crowed. The Lord turned and looked straight at Peter."
+      }
+    }
+  },
+  {
+    "id": "jn-03-personajes-04",
+    "reference": {
+      "gospel": "Juan",
+      "chapter": 3,
+      "verses": "1-21"
+    },
+    "characters": [
+      "Jesús",
+      "Nicodemo"
+    ],
+    "location": "Jerusalén",
+    "category": "personajes",
+    "subcategory": "nicodemo",
+    "level": 4,
+    "difficulty": "all",
+    "illustration": "personajes/nicodemo.png",
+    "keywords": [
+      "Nicodemo",
+      "nacer de nuevo",
+      "de noche"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué le dijo Jesús a Nicodemo que era necesario para ver el Reino de Dios?",
+        "options": [
+          "Nacer de nuevo",
+          "Estudiar la ley toda la vida",
+          "Ser rico"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús le dijo a Nicodemo que quien no naciera de nuevo no podía ver el Reino de Dios.",
+        "historicalContext": "Nicodemo era un fariseo y miembro del Sanedrín, el consejo religioso judío más influyente.",
+        "culturalContext": "Visitar a Jesús de noche sugiere cautela, dado el riesgo social de asociarse abiertamente con él.",
+        "mainTeaching": "La enseñanza señala que la transformación espiritual, no el estatus religioso, da acceso al Reino.",
+        "verseText": "De cierto, de cierto te digo, que el que no naciere de nuevo, no puede ver el reino de Dios."
+      },
+      "en": {
+        "prompt": "What did Jesus tell Nicodemus was necessary to see the Kingdom of God?",
+        "options": [
+          "To be born again",
+          "To study the law for life",
+          "To be wealthy"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus told Nicodemus that no one could see the Kingdom of God without being born again.",
+        "historicalContext": "Nicodemus was a Pharisee and member of the Sanhedrin, the most influential Jewish religious council.",
+        "culturalContext": "Visiting Jesus at night suggests caution, given the social risk of openly associating with him.",
+        "mainTeaching": "The teaching points out that spiritual transformation, not religious status, grants access to the Kingdom.",
+        "verseText": "Very truly I tell you, no one can see the kingdom of God unless they are born again."
+      }
+    }
+  },
+  {
+    "id": "lc-19-personajes-05",
+    "reference": {
+      "gospel": "Lucas",
+      "chapter": 19,
+      "verses": "1-10"
+    },
+    "characters": [
+      "Jesús",
+      "Zaqueo"
+    ],
+    "location": "Jericó",
+    "category": "personajes",
+    "subcategory": "zaqueo",
+    "level": 5,
+    "difficulty": "all",
+    "illustration": "personajes/zaqueo.png",
+    "keywords": [
+      "Zaqueo",
+      "árbol",
+      "publicano"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Por qué se subió Zaqueo a un árbol sicómoro?",
+        "options": [
+          "Porque era de baja estatura y quería ver a Jesús",
+          "Para escapar de la multitud",
+          "Para recoger fruta"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zaqueo era de baja estatura y, para poder ver a Jesús sobre la multitud, se subió a un árbol sicómoro.",
+        "historicalContext": "Zaqueo era jefe de los publicanos en Jericó, una posición que implicaba riqueza mal vista socialmente.",
+        "culturalContext": "Que Jesús decidiera hospedarse en casa de un publicano escandalizó a quienes lo observaban.",
+        "mainTeaching": "El encuentro muestra que Jesús busca activamente a quienes la sociedad margina o rechaza.",
+        "verseText": "Hoy ha venido la salvación a esta casa, porque también este es hijo de Abraham."
+      },
+      "en": {
+        "prompt": "Why did Zacchaeus climb a sycamore tree?",
+        "options": [
+          "Because he was short and wanted to see Jesus",
+          "To escape the crowd",
+          "To pick fruit"
+        ],
+        "correctIndex": 0,
+        "explanation": "Zacchaeus was short in stature, so to see Jesus over the crowd he climbed a sycamore tree.",
+        "historicalContext": "Zacchaeus was chief tax collector in Jericho, a position associated with socially frowned-upon wealth.",
+        "culturalContext": "That Jesus chose to stay at a tax collector's house scandalized those who were watching.",
+        "mainTeaching": "The encounter shows that Jesus actively seeks out those whom society marginalizes or rejects.",
+        "verseText": "Today salvation has come to this house, because this man, too, is a son of Abraham."
+      }
+    }
+  },
+  {
+    "id": "jn-04-personajes-06",
+    "reference": {
+      "gospel": "Juan",
+      "chapter": 4,
+      "verses": "1-42"
+    },
+    "characters": [
+      "Jesús",
+      "una mujer samaritana"
+    ],
+    "location": "pozo de Jacob, Sicar",
+    "category": "personajes",
+    "subcategory": "samaritana",
+    "level": 6,
+    "difficulty": "all",
+    "illustration": "personajes/samaritana.png",
+    "keywords": [
+      "samaritana",
+      "pozo",
+      "agua viva"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué le ofreció Jesús a la mujer samaritana en el pozo?",
+        "options": [
+          "Agua viva que quita la sed para siempre",
+          "Un lugar en su casa",
+          "Riquezas materiales"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús le habló de un 'agua viva' que satisface la sed espiritual para siempre.",
+        "historicalContext": "Judíos y samaritanos normalmente evitaban todo contacto; hablarle a una mujer en público rompía otra norma social.",
+        "culturalContext": "El pozo era un lugar de encuentro social cotidiano, generalmente visitado a otras horas del día.",
+        "mainTeaching": "El diálogo muestra que Jesús ofrece vida espiritual a quienes la sociedad excluye por múltiples razones.",
+        "verseText": "El que beba del agua que yo le daré, no tendrá sed jamás, dijo Jesús a la mujer."
+      },
+      "en": {
+        "prompt": "What did Jesus offer the Samaritan woman at the well?",
+        "options": [
+          "Living water that removes thirst forever",
+          "A place in his household",
+          "Material wealth"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus spoke to her of 'living water' that satisfies spiritual thirst forever.",
+        "historicalContext": "Jews and Samaritans usually avoided all contact; speaking to a woman in public broke another social norm.",
+        "culturalContext": "The well was a daily social gathering spot, typically visited at other times of day.",
+        "mainTeaching": "The dialogue shows that Jesus offers spiritual life to those excluded by society for multiple reasons.",
+        "verseText": "Whoever drinks the water I give them will never thirst, Jesus told the woman."
+      }
+    }
+  }
+]

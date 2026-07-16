@@ -1,0 +1,34 @@
+{
+  "app": {
+    "title": "Historia de Jesús",
+    "credit": "Developed by OTSV"
+  },
+  "menu": {
+    "play": "Jugar",
+    "configuration": "Configuración",
+    "score": "Puntuación"
+  },
+  "player": {
+    "newPlayer": "Nuevo jugador",
+    "namePrompt": "¿Cómo te llamas?",
+    "continue": "Continuar",
+    "restart": "Reiniciar"
+  },
+  "settings": {
+    "title": "Configuración",
+    "language": "Idioma",
+    "difficulty": "Dificultad",
+    "beginner": "Principiante",
+    "intermediate": "Intermedio",
+    "advanced": "Avanzado"
+  },
+  "game": {
+    "level": "Nivel",
+    "score": "Puntos",
+    "timeUp": "¡Se acabó el tiempo!"
+  },
+  "common": {
+    "back": "Volver",
+    "loading": "Cargando..."
+  }
+}

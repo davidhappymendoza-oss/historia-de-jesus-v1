@@ -1,0 +1,210 @@
+[
+  {
+    "id": "jn-13-ensenanzas-01",
+    "reference": {
+      "gospel": "Juan",
+      "chapter": 13,
+      "verses": "34-35"
+    },
+    "characters": [
+      "Jesús",
+      "los discípulos"
+    ],
+    "location": "el aposento alto",
+    "category": "ensenanzas",
+    "subcategory": "mandamiento_del_amor",
+    "level": 1,
+    "difficulty": "all",
+    "illustration": "ensenanzas/mandamiento-amor.png",
+    "keywords": [
+      "amor",
+      "mandamiento nuevo",
+      "discípulos"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Cuál es la señal que Jesús dice que identificará a sus discípulos ante el mundo?",
+        "options": [
+          "El amor que se tengan unos a otros",
+          "Los milagros que hagan",
+          "El conocimiento de la ley"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús dice que todos reconocerán a sus discípulos por el amor que se tengan entre ellos.",
+        "historicalContext": "Este mandamiento se dio la noche antes de la crucifixión, durante la última cena.",
+        "culturalContext": "Un 'mandamiento nuevo' resonaba fuerte en una cultura que valoraba profundamente la ley existente.",
+        "mainTeaching": "El amor mutuo, y no solo la doctrina correcta, es la marca distintiva de ser seguidor de Jesús.",
+        "verseText": "En esto conocerán todos que sois mis discípulos, si tenéis amor los unos con los otros."
+      },
+      "en": {
+        "prompt": "According to Jesus, what will identify his disciples to the world?",
+        "options": [
+          "Their love for one another",
+          "The miracles they perform",
+          "Their knowledge of the law"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus says everyone will recognize his disciples by the love they have for one another.",
+        "historicalContext": "This command was given the night before the crucifixion, during the Last Supper.",
+        "culturalContext": "A 'new command' resonated strongly in a culture that deeply valued the existing law.",
+        "mainTeaching": "Mutual love, not just correct doctrine, is the distinguishing mark of being a follower of Jesus.",
+        "verseText": "By this everyone will know that you are my disciples, if you love one another."
+      }
+    }
+  },
+  {
+    "id": "mt-06-ensenanzas-02",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 6,
+      "verses": "9-13"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "ensenanzas",
+    "subcategory": "oracion_modelo",
+    "level": 2,
+    "difficulty": "all",
+    "illustration": "ensenanzas/padre-nuestro.png",
+    "keywords": [
+      "Padre Nuestro",
+      "oración",
+      "sermón del monte"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Con qué palabra empieza la oración que Jesús enseñó a sus discípulos?",
+        "options": [
+          "Padre",
+          "Señor",
+          "Dios"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús enseñó a orar dirigiéndose a Dios como 'Padre nuestro que estás en los cielos'.",
+        "historicalContext": "Los rabinos de la época enseñaban a menudo oraciones modelo a sus discípulos.",
+        "culturalContext": "Llamar a Dios 'Padre' de forma cercana era menos común que otros títulos más formales de la época.",
+        "mainTeaching": "La oración modela una relación cercana con Dios, junto con peticiones de provisión y perdón.",
+        "verseText": "Padre nuestro que estás en los cielos, santificado sea tu nombre. Venga tu reino."
+      },
+      "en": {
+        "prompt": "What word does the prayer Jesus taught his disciples begin with?",
+        "options": [
+          "Father",
+          "Lord",
+          "God"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus taught his disciples to pray by addressing God as 'Our Father in heaven.'",
+        "historicalContext": "Rabbis of that era often taught model prayers to their disciples.",
+        "culturalContext": "Calling God 'Father' in such a close way was less common than other more formal titles of the time.",
+        "mainTeaching": "The prayer models a close relationship with God, alongside requests for provision and forgiveness.",
+        "verseText": "Our Father in heaven, hallowed be your name. Your kingdom come, your will be done."
+      }
+    }
+  },
+  {
+    "id": "mt-07-ensenanzas-03",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 7,
+      "verses": "12"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "ensenanzas",
+    "subcategory": "regla_de_oro",
+    "level": 3,
+    "difficulty": "all",
+    "illustration": "ensenanzas/regla-de-oro.png",
+    "keywords": [
+      "regla de oro",
+      "sermón del monte"
+    ],
+    "content": {
+      "es": {
+        "prompt": "Según la 'regla de oro' de Jesús, ¿cómo debemos tratar a los demás?",
+        "options": [
+          "Como queremos que ellos nos traten a nosotros",
+          "Como ellos nos tratan primero",
+          "Según lo que merezcan"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús resume la ley y los profetas en tratar a los demás como uno quisiera ser tratado.",
+        "historicalContext": "Versiones similares de esta idea aparecían en otras tradiciones éticas antiguas, pero Jesús la formula de modo positivo y activo.",
+        "culturalContext": "Presentarla como resumen 'de la ley y los profetas' le daba máxima autoridad dentro del pensamiento judío.",
+        "mainTeaching": "La enseñanza convierte la empatía activa en el principio práctico central de la ética de Jesús.",
+        "verseText": "Así que todas las cosas que queráis que los hombres hagan con vosotros, así también haced vosotros con ellos."
+      },
+      "en": {
+        "prompt": "According to Jesus's 'golden rule,' how should we treat others?",
+        "options": [
+          "As we want them to treat us",
+          "As they treat us first",
+          "According to what they deserve"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus summarizes the law and the prophets as treating others the way one would want to be treated.",
+        "historicalContext": "Similar versions of this idea appeared in other ancient ethical traditions, but Jesus frames it positively and actively.",
+        "culturalContext": "Presenting it as a summary 'of the law and the prophets' gave it maximum authority within Jewish thought.",
+        "mainTeaching": "The teaching turns active empathy into the central practical principle of Jesus's ethics.",
+        "verseText": "So in everything, do to others what you would have them do to you."
+      }
+    }
+  },
+  {
+    "id": "mt-05-ensenanzas-04",
+    "reference": {
+      "gospel": "Mateo",
+      "chapter": 5,
+      "verses": "43-48"
+    },
+    "characters": [
+      "Jesús"
+    ],
+    "location": "monte cerca del Mar de Galilea",
+    "category": "ensenanzas",
+    "subcategory": "amor_a_los_enemigos",
+    "level": 4,
+    "difficulty": "all",
+    "illustration": "ensenanzas/amar-enemigos.png",
+    "keywords": [
+      "enemigos",
+      "amor",
+      "perdón"
+    ],
+    "content": {
+      "es": {
+        "prompt": "¿Qué mandó Jesús hacer respecto a los enemigos, contradiciendo la costumbre popular de la época?",
+        "options": [
+          "Amarlos y orar por ellos",
+          "Ignorarlos por completo",
+          "Evitarlos a toda costa"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesús mandó amar a los enemigos y orar por quienes persiguen, en lugar de solo odiarlos como se acostumbraba.",
+        "historicalContext": "La enseñanza popular de la época incluía amar al prójimo, pero no necesariamente al enemigo declarado.",
+        "culturalContext": "En un contexto de ocupación romana, amar al enemigo era una postura radical y contracultural.",
+        "mainTeaching": "Enseña que el amor de los seguidores de Jesús debe superar los límites naturales de reciprocidad.",
+        "verseText": "Amad a vuestros enemigos, bendecid a los que os maldicen, y orad por los que os persiguen."
+      },
+      "en": {
+        "prompt": "What did Jesus command regarding enemies, contradicting the popular custom of the time?",
+        "options": [
+          "Love them and pray for them",
+          "Ignore them completely",
+          "Avoid them at all costs"
+        ],
+        "correctIndex": 0,
+        "explanation": "Jesus commanded loving enemies and praying for persecutors, rather than simply hating them as was customary.",
+        "historicalContext": "Popular teaching of the time included loving one's neighbor, but not necessarily a declared enemy.",
+        "culturalContext": "Under Roman occupation, loving one's enemy was a radical, countercultural stance.",
+        "mainTeaching": "It teaches that the love of Jesus's followers must go beyond the natural limits of reciprocity.",
+        "verseText": "Love your enemies and pray for those who persecute you, Jesus taught the crowd."
+      }
+    }
+  }
+]
