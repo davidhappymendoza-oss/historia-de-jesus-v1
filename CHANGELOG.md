@@ -1,5 +1,41 @@
 # Changelog
 
+## v2.5 — Corrección de build para Vercel: ESM en vite.config.ts (2026-07-16)
+
+Corrige únicamente el fallo de `npm run build` en Vercel. Sin cambios
+de lógica, diseño, audio, preguntas ni fondos.
+
+### Errores corregidos
+
+- `vite.config.ts(3,18): error TS2307: Cannot find module 'path'...`
+- `vite.config.ts(10,25): error TS2304: Cannot find name '__dirname'.`
+
+### Cambios
+
+- `package.json`: agregado `@types/node` (`^20.14.9`) a `devDependencies`.
+- `vite.config.ts`: reemplazado `import path from "path"` por
+  `import path from "node:path"` y agregado
+  `import { fileURLToPath } from "node:url"`; `__dirname` (no
+  disponible en ES Modules) reemplazado por la forma equivalente:
+  ```ts
+  const __filename = fileURLToPath(import.meta.url);
+  const __dirname = path.dirname(__filename);
+  ```
+- `tsconfig.node.json`: agregado `"types": ["node"]` en
+  `compilerOptions` (es el tsconfig que gobierna `vite.config.ts`).
+
+### Verificación
+
+Se validó con TypeScript real (declaraciones `@types/node` reales,
+mismas opciones que `tsconfig.node.json`) una comparación directa:
+- Código anterior → reproduce ambos errores exactos reportados
+  (`Cannot find name 'path'` / `Cannot find name '__dirname'`).
+- Código corregido → ninguno de los dos aparece. (Sí aparecen errores
+  de "no encuentro el módulo vite/@vitejs/plugin-react" porque este
+  entorno de validación no tiene esos paquetes instalados — es
+  esperable acá y no tiene relación con la corrección; en Vercel,
+  donde `npm install` sí instala todo, no deberían aparecer.)
+
 ## v2.4 — Video ambiental real del menú principal (2026-07-16)
 
 ### Archivo
